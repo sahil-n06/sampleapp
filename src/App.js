@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Arrayexamples from './playground/Arrayexamples';
+Arrayexamples.testArray();
 function App() {
   return (
     <div className="App">
